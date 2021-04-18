@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GerroDen
-- 👀 I’m interested in sustainable software architecture, java, ecmascript, node, vue, flutter
-- 🌱 I’m currently learning flutter and architecture for web and mobile clients
+- 👋 Hi, I’m Lars
+- 👀 I’m interested in sustainable software architecture, ecmascript, node, vue, flutter, java
+- 🌱 I’m currently focussing on flutter and architecture for web and mobile clients
 
 <!---
 GerroDen/GerroDen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
